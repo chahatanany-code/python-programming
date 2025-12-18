@@ -1,0 +1,1 @@
+print("python is new for mr")
